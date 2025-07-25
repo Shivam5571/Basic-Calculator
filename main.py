@@ -36,5 +36,3 @@ elif choice =='4':
     print("Result: ", divide(a1,b2))
 else:
     print("Invalid Input")
-
-git init
